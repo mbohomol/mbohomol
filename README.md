@@ -2,7 +2,7 @@
 
 <h3>Meu nome é Milene Bohomol</h3>
 
-💻Desenvolvedora Web FullStack
+💻 Desenvolvedora Web FullStack
 <br>
 ⚡ Aluna da [Generation Brazil](https://brazil.generation.org/)
 <br>
