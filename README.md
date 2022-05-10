@@ -1,4 +1,14 @@
 # Olá! Esse é meu GitHub 
+
+<h3>Meu nome é Milene Bohomol</h3>
+
+💻Desenvolvedora Web FullStack
+<br>
+⚡ Aluna da [Generation Brazil](https://brazil.generation.org/)
+<br>
+❤️ Sou apaixonada por tecnologia
+
+
 <div align="center">
   <a href="https://github.com/mbohomol">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mbohomol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
