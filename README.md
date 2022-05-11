@@ -6,7 +6,7 @@
 <br>
 ⚡ Aluna da [Generation Brazil](https://brazil.generation.org/)
 <br>
-❤️ Sou apaixonada por tecnologia
+❤️ Apaixonada por tecnologia
 
 <div align="center">
   <a href="https://github.com/mbohomol">
