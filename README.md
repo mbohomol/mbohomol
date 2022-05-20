@@ -16,6 +16,7 @@
   <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="70"/></a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="80"/></a>
   <a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
+   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
   ##
