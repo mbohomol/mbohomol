@@ -4,8 +4,6 @@
 
 💻 Desenvolvedora Web FullStack
 <br>
-⚡ Aluna da [Generation Brazil](https://brazil.generation.org/)
-<br>
 ❤️ Apaixonada por tecnologia
 
 <div align="center">
